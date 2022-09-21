@@ -95,7 +95,7 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
+      name: "老婆",
       id: "oHN-g6gt-UD8eRLiql5c1--3nDxk",
       useTemplateId: " 	DbzyF7Qzh8SKp1hUHrc6nbGmMCrnbmCp_BWjp8XnIk8",
       province: "福建",
